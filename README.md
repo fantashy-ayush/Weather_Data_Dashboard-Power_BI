@@ -1,4 +1,8 @@
 # Weather_Data_Dashboard-Power_BI
+
+![Alt text](/workspaces/Weather_Data_Dashboard-Power_BI/Screenshot 2025-09-03 022345.png)
+
+ 
 ## Weather Dashboard
 
 **Project Overview**
